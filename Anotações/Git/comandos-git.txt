@@ -1,0 +1,14 @@
+cd -> mudar diretório
+cd .. -> retornar diretório
+mkdir -> criar diretório
+rmdir -> excluir diretório
+del -> excluir arquivos
+ls -> listar conteúdo de um diretório
+ctrl + l -> limpa o terminal
+git init -> criar repositório 
+git clone -> clonar repositório
+git add -> adicionar arquivos ao índice
+gir add * -> adicionar todos os novos arquivos ao índice
+git commit -> fazer um commit
+git push -> enviar alterações para o repositório remoto
+git pull -> enviar lterações presentes no repositório remoto para o diretório de trabalho local

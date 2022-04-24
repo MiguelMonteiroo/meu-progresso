@@ -1,0 +1,45 @@
+tags
+<!DOCTYPE html> -> indica que é um documento em HTML5
+<head> -> configurações do site
+<body> -> conteúdo do site
+<title> título do site
+<h1> - <h6> -> títulos 
+<p> -> parágrafos
+<br> -> quebra de linha
+<hr> -> linha horizontal
+<img src="" alt=""> -> imagem
+<picture> -> imagens flexíveis 
+source media="" scrset="" type"" -> imagem alternativa
+<link rel="" href="" type="image/x-icon"> -> favicon
+<strong> -> negrito
+<em> -> itálico
+<del> -> texto deletado
+<ins> texto inserido
+<sup> -> texto sobrescrito
+<sub> -> texto subscrito
+<code> -> código-fonte
+<pre> -> pré-formatação
+<q> -> citação
+<blockquote> -> citação com quebra de linha e deslocamento
+<abbr> -> significado de abreviações
+<bdo> -> inverter texto
+<ol> -> lista ordernada
+<ul> -> lista não ordenada
+<li> -> item da lista
+<dl> -> lista de descrição
+<dt> -> termo
+<dd> -> descrição do termo
+<a> -> âncora
+<a href="" rel="external/next/prev"> -> links externos/internos
+<a href="" download=" type="" > link para download
+ <audio preload="metadata" controls>
+   <source src= "arquivo.mp3" type="audio/mpeg">
+   <source src= "arquivo.ogg" type="audio/ogg">
+   <source src= "arquivo.wav" type="audio/wav">
+</audio>
+<video width="" poster="" controls>
+ <source src="midia/meu-video.mp4" type="video/mp4">
+ <source src="midia/meu-video.m4v" type="video/mp4">
+ <source src="midia/meu-video.webm" type="video/webm">
+ <source src="midia/meu-video.ogv" type="video/ogg">
+</video>
